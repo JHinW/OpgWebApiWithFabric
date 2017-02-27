@@ -1,0 +1,1 @@
+C:\Tools\opg\OpgWebApiWithFabric\OpgWebApiWithFabric\OpgWebApiWithFabric\obj\x64\Debug\OpgWebApiWithFabric.sfprojResolveAssemblyReference.cache
